@@ -15,4 +15,4 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" height="40" style="vertical-align:top; margin:4px">
 </p> 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeeAnnEye)](https://github.com/anuraghazra/github-readme-stats)
+
