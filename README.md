@@ -14,5 +14,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" height="40" style="vertical-align:top; margin:4px">	
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" height="40" style="vertical-align:top; margin:4px">
-</p> 
-
+</p> <br>
+<img src=https://github-readme-stats.vercel.app/api?username=DeeAnnEye&show_icons=true&theme=tokyonight>
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=DeeAnnEye&layout=compact&theme=blue-green>
