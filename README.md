@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
- <h2>😏: Learning NumPy </h2><br>
+ <h2>😏 Learning NumPy </h2><br>
  <h3>:blush::blush: Budding Developer :wink::wink:</h3>
  <h3>:zap: :zap:Learning Artificial Intelligence and Machine Learning </h3>
  <h3>:violin: Love Violins too...</h3><br>
