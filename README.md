@@ -1,8 +1,8 @@
 <!-- ### Hi there 👋 -->
- <h2>😏 Learning NumPy </h2><br>
+ <h2>:exploding_head: Busy studying </h2><br>
  <h3>:blush::blush: Budding Developer :wink::wink:</h3>
  <h3>:zap: :zap:Learning Artificial Intelligence and Machine Learning </h3>
- <h3>:violin: Love Violins too...</h3><br>
+ <h3>:violin: Love playin' my violin...</h3><br>
  <h2> Languages and Editors </h2>
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" height="40" style="vertical-align:top; margin:4px" >
