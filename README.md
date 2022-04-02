@@ -1,8 +1,8 @@
 <!-- ### Hi there 👋 -->
  <h2>:wink: C </h2><br>
- <h3>:blush::blush: Budding Developer :wink::wink:</h3>
+ <h3>:blush::blush:meh Bored:wink::wink:</h3>
  <h3>:zap: :zap:Learning Artificial Intelligence and Machine Learning </h3>
- <h3>:violin: Love playin' my violin...</h3><br>
+ <h3>:violin: Kinda like python...</h3><br>
  <h2> Languages and Editors </h2>
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" height="40" style="vertical-align:top; margin:4px" >
