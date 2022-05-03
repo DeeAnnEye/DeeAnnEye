@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
- <h2>:wink:Tryna do something with C </h2><br>
+ <h2>:wink:GO</h2><br>
  <h3>:blush::blush:Bored:wink::wink:</h3>
- <h3>:zap: :zap:Learning Artificial Intelligence and Machine Learning </h3>
+ <h3>:zap: :zap:Learning GOLANG</h3>
  <h3>Kinda like python...</h3><br>
  <h2> Languages and Editors </h2>
 <p>
