@@ -2,7 +2,7 @@
  <h2>:wink:GO</h2><br>
  <h3>:blush::blush:Bored:wink::wink:</h3>
  <h3>:zap: :zap:Learning GOLANG</h3>
- <h3>Kinda like python...</h3><br>
+ 
  <h2> Languages and Editors </h2>
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" height="40" style="vertical-align:top; margin:4px" >
