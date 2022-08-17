@@ -13,6 +13,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" height="40" style="vertical-align:top; margin:4px">
 <img src="https://download.logo.wine/logo/Go_(programming_language)/Go_(programming_language)-Logo.wine.png" alt="go" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="laravel" height="40" style="vertical-align:top; margin:4px" >
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" height="40" style="vertical-align:top; margin:4px" >
+<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" height="40" style="vertical-align:top; margin:4px" >
+ <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="django" height="40" style="vertical-align:top; margin:4px" >
 <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="pycharm" height="40" style="vertical-align:top; margin:4px" >
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" height="40" style="vertical-align:top; margin:4px" >
 </p> <br>
