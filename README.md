@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm DeeAnnEye</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deeanneye" alt="deeanneye" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/deeanneye" target="blank"><img src="https://img.shields.io/twitter/follow/deeanneye?logo=twitter&style=for-the-badge" alt="deeanneye" /></a> </p>
 
