@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/deeanneye" target="blank"><img src="https://img.shields.io/twitter/follow/deeanneye?logo=twitter&style=for-the-badge" alt="deeanneye" /></a> </p>
 
-- 🔭 Building a **Game**
+- ❄️ Learning Snowflake :)
 
 - 💬 Ask me about **react, golang, redis**
 
